@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 - Skills: 
-  ![Static Badge](https://img.shields.io/badge/React-lightcoral?logo=react)
-  ![Static Badge](https://img.shields.io/badge/Vue-lightcoral?logo=vue)
-  ![Static Badge](https://img.shields.io/badge/Svelte-lightcoral?logo=svelte)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-lightcoral?logo=typescript)
-  ![Static Badge](https://img.shields.io/badge/Webpack-lightcoral?logo=webpack)
-  ![Static Badge](https://img.shields.io/badge/Rollup-lightcoral?logo=rollup)
-  ![Static Badge](https://img.shields.io/badge/Nginx-lightcoral?logo=nginx)
-  ![Static Badge](https://img.shields.io/badge/Linux-lightcoral?logo=linux)
+  ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
+  ![Static Badge](https://img.shields.io/badge/Vue-blue?logo=vue)
+  ![Static Badge](https://img.shields.io/badge/Svelte-blue?logo=svelte)
+  ![Static Badge](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+  ![Static Badge](https://img.shields.io/badge/Webpack-blue?logo=webpack)
+  ![Static Badge](https://img.shields.io/badge/Rollup-blue?logo=rollup)
+  ![Static Badge](https://img.shields.io/badge/Nginx-blue?logo=nginx)
+  ![Static Badge](https://img.shields.io/badge/Linux-blue?logo=linux)
 
 - Learning:
-  ![Static Badge](https://img.shields.io/badge/Eletron-lightcoral?logo=eletron)
-  ![Static Badge](https://img.shields.io/badge/Node.js-lightcoral?logo=node)
-  ![Static Badge](https://img.shields.io/badge/Docker-lightcoral?logo=docker)
+  ![Static Badge](https://img.shields.io/badge/Electron-blue?logo=electron)
+  ![Static Badge](https://img.shields.io/badge/Node.js-blue?logo=nodejs)
+  ![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker)
 
 - GitHub stats
 
