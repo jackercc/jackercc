@@ -15,9 +15,10 @@
   ![Static Badge](https://img.shields.io/badge/Node.js-blue?logo=nodejs)
   ![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-- GitHub stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackercc&layout=compact)](https://github.com/jackercc/github-readme-stats)
+
+- GitHub stats
+  <img  src="https://github-readme-stats.vercel.app/api?username=jackercc&show_icons=true&theme=graywhite" />
 
 <!--
 **jackercc/jackercc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
