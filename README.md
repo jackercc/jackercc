@@ -17,7 +17,7 @@
 
 - GitHub stats
 
-![Jackercc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackercc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackercc&layout=compact)](https://github.com/jackercc/github-readme-stats)
 
 <!--
 **jackercc/jackercc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
